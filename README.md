@@ -7,3 +7,7 @@ The core challenge lies in achieving high-quality image reconstruction through i
 While traditional regularization methods have improved reconstruction quality to some extent, their robustness and generalizability remain limited when handling complex imaging scenarios. 
 
 Generative artificial intelligence offers a promising solution by learning data distributions to provide more universal and adaptive prior information, thereby enabling new possibilities for high-fidelity image reconstruction.
+
+Generative AI-assisted computational optical imaging, CITA2024 [PPT]
+
+---
