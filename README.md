@@ -81,6 +81,7 @@
 ## ● Learning from Hybrid Domain
 
 ● Some computational optical imaging systems employ iterative spatial/frequency domain cycling. 
+
 ● Joint spatial-frequency learning can further enhance imaging quality.
 
 ![](./figures/fig7.jpg)
