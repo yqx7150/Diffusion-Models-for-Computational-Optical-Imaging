@@ -10,13 +10,13 @@ Generative artificial intelligence offers a promising solution by learning data 
 
 Generative AI-assisted computational optical imaging, [[CITA2024 PPT](./CITA2024.pptx)]
 
-![](./figures/fig1.jpg)
+![](./figures/fig1.JPG)
 
-![](./figures/fig2.jpg)
+![](./figures/fig2.JPG)
 
-![](./figures/fig3.jpg)
+![](./figures/fig3.JPG)
 
-![](./figures/fig4.jpg)
+![](./figures/fig4.JPG)
 
 ---
 
