@@ -20,13 +20,13 @@ Generative AI-assisted computational optical imaging, [[CITA2024 PPT](./CITA2024
 
 ---
 
-## Learning from Spatial Domain
+##  ● Learning from Spatial Domain
 
 The final output of computational optical imaging is typically represented in the spatial domain. 
 
 Therefore, prior learning in this domain (including for grayscale images, color images, high-dimensional color images, and complex amplitude images), provides the most direct constraint generation method.
 
-### ·Lens-less imaging via score-based generative model
+### ● Lens-less imaging via score-based generative model
 
 [[paper](https://ope.lightpublishing.cn/zh/article/doi/10.37188/OPE.20223018.2280/)]   [[code](https://github.com/yqx7150/LSGM)]
 
