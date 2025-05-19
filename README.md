@@ -102,22 +102,35 @@ Learning in transform domains (e.g., wavelet domain) can effectively enhance ima
 
 ---
 
-## Learning from Data Domain
+## ● Learning from Data Domain
 
 For sparse-sampled computational imaging problems, learning directly in the native data domain of signals provides a more straightforward generative sparse reconstruction scheme.
 
 ![](./figures/fig9.jpg)
 
-### Multiple diffusion models-enhanced extremely limited-view reconstruction strategy for photoacoustic tomography boosted by multi-scale priors
+### ● Multiple diffusion models-enhanced extremely limited-view reconstruction strategy for photoacoustic tomography boosted by multi-scale priors
 
 [[paper](https://www.sciencedirect.com/science/article/pii/S2213597924000636)]  [[code](https://github.com/yqx7150/MSDM-PAT)]
 
-### Ultra-sparse reconstruction for photoacoustic tomography: sinogram domain prior-guided method exploiting enhanced score-based diffusion model
+### ● Ultra-sparse reconstruction for photoacoustic tomography: sinogram domain prior-guided method exploiting enhanced score-based diffusion model
 
 [[paper](https://www.sciencedirect.com/science/article/pii/S2213597924000879)]  [[code](https://github.com/yqx7150/PAT-Sinogram-Diffusion)]
 
 ---
 
+## ● Other related work
+
+### ● Real-time intelligent 3D holographic photography for real-world scenarios
+
+[[paper](https://opg.optica.org/oe/fulltext.cfm?uri=oe-32-14-24540&id=552337)]  [[code](https://github.com/yqx7150/Intelligent-3D-holography)]
+
+### ● High-speed real 3D scene acquisition and 3D holographic reconstruction system based on ultrafast optical axial scanning
+
+[[paper](https://opg.optica.org/oe/fulltext.cfm?uri=oe-31-13-21721&id=531678)]
+
+### ● Low-cost, high-precision integral 3D photography and holographic 3D display for real-world scenes
+
+[[paper](https://www.sciencedirect.com/science/article/pii/S0030401824006072)]
 
 
 
