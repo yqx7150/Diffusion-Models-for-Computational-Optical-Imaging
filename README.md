@@ -98,11 +98,25 @@ Learning in transform domains (e.g., wavelet domain) can effectively enhance ima
 
 ### ● Wavelet-refinement-inspired diffusion model for scattering imaging
 
-[paper]:In review  
-[[code](https://github.com/yqx7150/WIDS)]
+[paper]  [[code](https://github.com/yqx7150/WIDS)]
 
 ---
 
+## Learning from Data Domain
+
+For sparse-sampled computational imaging problems, learning directly in the native data domain of signals provides a more straightforward generative sparse reconstruction scheme.
+
+![](./figures/fig9.jpg)
+
+### Multiple diffusion models-enhanced extremely limited-view reconstruction strategy for photoacoustic tomography boosted by multi-scale priors
+
+[[paper](https://www.sciencedirect.com/science/article/pii/S2213597924000636)]  [[code](https://github.com/yqx7150/MSDM-PAT)]
+
+### Ultra-sparse reconstruction for photoacoustic tomography: sinogram domain prior-guided method exploiting enhanced score-based diffusion model
+
+[[paper](https://www.sciencedirect.com/science/article/pii/S2213597924000879)]  [[code](https://github.com/yqx7150/PAT-Sinogram-Diffusion)]
+
+---
 
 
 
