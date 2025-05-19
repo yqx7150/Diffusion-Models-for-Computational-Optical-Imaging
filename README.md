@@ -84,6 +84,24 @@ Some computational optical imaging systems employ iterative spatial/frequency do
 
 ![](./figures/fig7.jpg)
 
+### ● Dual-domain mean-reverting diffusion model-enhanced temporal compressive coherent diffraction imaging
+
+[[paper](https://opg.optica.org/abstract.cfm?uri=oe-32-9-15243)]  [[code](https://github.com/yqx7150/DMDTC)]
+
+---
+
+## ● Learning from Transformed Domain
+
+Learning in transform domains (e.g., wavelet domain) can effectively enhance image reconstruction details in computational optical imaging.
+
+![](./figures/fig8.jpg)
+
+### ● Wavelet-refinement-inspired diffusion model for scattering imaging
+
+[paper]:In review  
+[[code](https://github.com/yqx7150/WIDS)]
+
+---
 
 
 
