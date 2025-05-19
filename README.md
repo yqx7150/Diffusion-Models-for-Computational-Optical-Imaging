@@ -1,14 +1,14 @@
 # Diffusion-Models-for-Computational-Optical-Imaging
 
-· As an emerging technology, computational optical imaging demonstrates remarkable advantages through its high degrees of freedom, high-dimensional information acquisition capability, and intelligent characteristics. 
+● As an emerging technology, computational optical imaging demonstrates remarkable advantages through its high degrees of freedom, high-dimensional information acquisition capability, and intelligent characteristics. 
 
-· The core challenge lies in achieving high-quality image reconstruction through inverse problem solving. 
+● The core challenge lies in achieving high-quality image reconstruction through inverse problem solving. 
 
-· While traditional regularization methods have improved reconstruction quality to some extent, their robustness and generalizability remain limited when handling complex imaging scenarios. 
+● While traditional regularization methods have improved reconstruction quality to some extent, their robustness and generalizability remain limited when handling complex imaging scenarios. 
 
-· Generative artificial intelligence offers a promising solution by learning data distributions to provide more universal and adaptive prior information, thereby enabling new possibilities for high-fidelity image reconstruction.
+● Generative artificial intelligence offers a promising solution by learning data distributions to provide more universal and adaptive prior information, thereby enabling new possibilities for high-fidelity image reconstruction.
 
-**· Generative AI-assisted computational optical imaging** [[CITA2024 PPT](./CITA2024.pptx)]
+**● Generative AI-assisted computational optical imaging** [[CITA2024 PPT](./CITA2024.pptx)]
 
 ![](./figures/fig1.JPG)
 
@@ -22,9 +22,9 @@
 
 ##  ● Learning from Spatial Domain
 
-· The final output of computational optical imaging is typically represented in the spatial domain.
+● The final output of computational optical imaging is typically represented in the spatial domain.
 
-· Prior learning in spatial domain (including for grayscale images, color images, high-dimensional color images, and complex amplitude images), provides direct constraint generation method.
+● Prior learning in spatial domain (including for grayscale images, color images, high-dimensional color images, and complex amplitude images), provides direct constraint generation method.
 
 ![](./figures/fig5.jpg)
 
@@ -68,7 +68,7 @@
 
 ## ● Learning from Frequency Domain
 
-· Computational optical imaging can transform signals into the frequency domain through hardware systems, where frequency-domain prior learning provides an additional dimension of constraints.
+● Computational optical imaging can transform signals into the frequency domain through hardware systems, where frequency-domain prior learning provides an additional dimension of constraints.
 
 ![](./figures/fig6.jpg)
 
@@ -80,7 +80,8 @@
 
 ## ● Learning from Hybrid Domain
 
-· Some computational optical imaging systems employ iterative spatial/frequency domain cycling. Joint spatial-spectral learning and constraints can further enhance imaging quality
+● Some computational optical imaging systems employ iterative spatial/frequency domain cycling. 
+● Joint spatial-frequency learning can further enhance imaging quality.
 
 ![](./figures/fig7.jpg)
 
@@ -92,7 +93,7 @@
 
 ## ● Learning from Transformed Domain
 
-· Learning in transform domains (e.g., wavelet domain) can effectively enhance image reconstruction details in computational optical imaging.
+● Learning in transform domains (e.g., wavelet domain) can effectively enhance image reconstruction details in computational optical imaging.
 
 ![](./figures/fig8.jpg)
 
@@ -104,7 +105,7 @@
 
 ## ● Learning from Data Domain
 
-· For sparse-sampled computational imaging problems, learning directly in the native data domain of signals provides a more straightforward generative sparse reconstruction scheme.
+● For sparse-sampled computational imaging problems, learning directly in the native data domain of signals provides a more straightforward generative sparse reconstruction scheme.
 
 ![](./figures/fig9.jpg)
 
