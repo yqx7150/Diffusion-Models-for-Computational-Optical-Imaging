@@ -8,6 +8,6 @@ While traditional regularization methods have improved reconstruction quality to
 
 Generative artificial intelligence offers a promising solution by learning data distributions to provide more universal and adaptive prior information, thereby enabling new possibilities for high-fidelity image reconstruction.
 
-Generative AI-assisted computational optical imaging, [📑 CITA2024 PPT](./CITA2024.pptx)
+Generative AI-assisted computational optical imaging, [CITA2024 PPT](./CITA2024.pptx)
 
 ---
