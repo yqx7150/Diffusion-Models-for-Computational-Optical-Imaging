@@ -20,7 +20,7 @@ Generative AI-assisted computational optical imaging, [[CITA2024 PPT](./CITA2024
 
 ---
 
-- **Lens-less imaging via score-based generative model**  
+-## Learning from Spatial Domain
 
 The final output of computational optical imaging is typically represented in the spatial domain. 
 
