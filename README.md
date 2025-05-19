@@ -26,6 +26,8 @@ The final output of computational optical imaging is typically represented in th
 
 Therefore, prior learning in this domain (including for grayscale images, color images, high-dimensional color images, and complex amplitude images), provides the most direct constraint generation method.
 
+![](./figures/fig5.JPG)
+
 ### ● Lens-less imaging via score-based generative model
 
 [[paper](https://ope.lightpublishing.cn/zh/article/doi/10.37188/OPE.20223018.2280/)]   [[code](https://github.com/yqx7150/LSGM)]
@@ -63,5 +65,28 @@ Therefore, prior learning in this domain (including for grayscale images, color 
 [[paper](https://www.sciencedirect.com/science/article/pii/S2213597924000405)]  [[code](https://github.com/yqx7150/Limited-view-PAT-Diffusion)]
 
 ---
+
+## ● Learning from Frequency Domain
+
+Computational optical imaging can transform signals into the frequency domain through hardware systems, where frequency-domain prior learning provides an additional dimension of constraints.
+
+![](./figures/fig6.JPG)
+
+### ● Frequency domain generative diffusion model for temporal compressive coherent diffraction imaging
+
+[[paper](https://www.sciencedirect.com/science/article/pii/S0143816624004020)]  [[code](https://github.com/yqx7150/FDTC)]
+
+---
+
+## ● Learning from Hybrid Domain
+
+Some computational optical imaging systems employ iterative spatial/frequency domain cycling. Joint spatial-spectral learning and constraints can further enhance imaging quality
+
+![](./figures/fig7.JPG)
+
+
+
+
+
 
 
