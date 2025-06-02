@@ -10,7 +10,7 @@
 
 **● Generative AI-assisted computational optical imaging** [[CITA2024 PPT](./CITA2024.pptx)]
 
-**● 面向物理属性复用的生成式智能计算光学成像[[PDF](./面向物理属性复用的生成式智能计算光学成像.pdf)]
+● 面向物理属性复用的生成式智能计算光学成像[[PDF](./面向物理属性复用的生成式智能计算光学成像.pdf)]
 
 ![](./figures/fig1.JPG)
 
