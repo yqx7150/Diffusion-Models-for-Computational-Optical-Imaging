@@ -137,5 +137,9 @@
 [[paper](https://www.sciencedirect.com/science/article/pii/S0030401824006072)]
 
 
+## Other Related Projects
+    
+  * Diffusion Models for Medical Imaging  [<font size=5>**[Code]**</font>](https://github.com/yqx7150/Diffusion-Models-for-Medical-Imaging/tree/main)   [<font size=5>**[PPT]**</font>](https://github.com/yqx7150/EDAEPRec/tree/master/Slide)
 
+  * Diffusion Models for Photoacoustic Imaging  [<font size=5>**[Code]**</font>](https://github.com/yqx7150/Diffusion-Models-for-Photoacoustic-Imaging)   [<font size=5>**[Slide]**</font>](https://github.com/yqx7150/Diffusion-Models-for-Photoacoustic-Imaging/blob/main/SXL-NCU0629.pdf)  
 
