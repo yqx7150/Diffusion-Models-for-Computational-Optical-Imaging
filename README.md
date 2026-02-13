@@ -10,7 +10,10 @@
 
 **● Generative AI-assisted computational optical imaging** [[CITA2024 PPT](./CITA2024.pptx)]
 
-● 面向物理属性复用的生成式智能计算光学成像[[PDF](./面向物理属性复用的生成式智能计算光学成像.pdf)]
+* 基于扩散模型的医学成像研究综述   
+ [<font size=5>**[Paper]**</font>](https://www.cttacn.org.cn/article/doi/10.15953/j.ctta.2024.316)  
+
+● 基于生成式人工智能的计算光学成像进展（特邀）[<font size=5>**[Paper]**</font>](https://mp.weixinbridge.com/mp/wapredirect?url=https%3A%2F%2Fwww.photon.ac.cn%2FthesisDetails%2310.3788%2Fgzxb20255409.0954204%26lang%3Dzh&action=appmsg_redirect&uin=MjE2NTc0NTExNg==&biz=MzA5NTM5NzExMg==&mid=2247529379&idx=1&type=1&scene=0)  
 
 ![](./figures/fig1.JPG)
 
