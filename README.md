@@ -10,7 +10,7 @@
 
 **● Generative AI-assisted computational optical imaging** [[CITA2024 PPT](./CITA2024.pptx)]
 
-* 基于扩散模型的医学成像研究综述 [<font size=5>**[Paper]**</font>](https://www.cttacn.org.cn/article/doi/10.15953/j.ctta.2024.316)  
+● 基于扩散模型的医学成像研究综述 [<font size=5>**[Paper]**</font>](https://www.cttacn.org.cn/article/doi/10.15953/j.ctta.2024.316)  
 
 ● 基于生成式人工智能的计算光学成像进展（特邀）[<font size=5>**[Paper]**</font>](https://www.photon.ac.cn/thesisDetails#10.3788/gzxb20255409.0954204&lang=zh)  
 
